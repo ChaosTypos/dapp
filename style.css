@@ -6,6 +6,8 @@
 
 body {
     background: #26df5d;
+    cursor: pointer;
+    user-select: none;
 }
 
 h1 {
@@ -15,5 +17,4 @@ h1 {
     transform: translate(-50%);
     text-transform: uppercase;
     color: rgb(207, 30, 193);
-    cursor: pointer;
 }
