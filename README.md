@@ -21,6 +21,3 @@ git pull origin dev
 git pull origin dev --allow-unrelated-histories
 
 git fetch
-
-git remote set-url origin https://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@github.com/ChaosTypos/dapp
-
