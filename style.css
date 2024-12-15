@@ -15,4 +15,5 @@ h1 {
     transform: translate(-50%);
     text-transform: uppercase;
     color: rgb(207, 30, 193);
+    cursor: pointer;
 }
