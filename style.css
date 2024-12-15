@@ -3,14 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
-    background: #2fd360;
+    background: #26df5d;
 }
 
 h1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%);
     text-transform: uppercase;
     color: rgb(207, 30, 193);
-    position: absolute;
-    left: 40%;
-    top: 50%;
 }
