@@ -21,3 +21,5 @@ git pull origin dev
 git pull origin dev --allow-unrelated-histories
 
 git fetch
+
+h
