@@ -10,7 +10,6 @@ body {
 h1 {
     text-transform: uppercase;
     color: rgb(207, 30, 193);
-    transform translate(-50%);
     position: absolute;
     left: 40%;
     top: 50%;
